@@ -1,0 +1,42 @@
+Token: pro, Lexema: programa, Tipo: Palabra Reservada
+Token: id_1, Lexema: sumar, Tipo: Identificador
+Token: (, Lexema: (, Tipo: Palabra Reservada
+Token: ), Lexema: ), Tipo: Palabra Reservada
+Token: {, Lexema: {, Tipo: Palabra Reservada
+Token: int, Lexema: int, Tipo: Palabra Reservada
+Token: id_2, Lexema: a, Tipo: Identificador
+Token: ,, Lexema: ,, Tipo: Palabra Reservada
+Token: id_3, Lexema: b, Tipo: Identificador
+Token: ,, Lexema: ,, Tipo: Palabra Reservada
+Token: id_4, Lexema: c, Tipo: Identificador
+Token: ;, Lexema: ;, Tipo: Palabra Reservada
+Token: leer, Lexema: leer, Tipo: Palabra Reservada
+Token: id_2, Lexema: a, Tipo: Identificador
+Token: ;, Lexema: ;, Tipo: Palabra Reservada
+Token: leer, Lexema: leer, Tipo: Palabra Reservada
+Token: id_3, Lexema: b, Tipo: Identificador
+Token: ;, Lexema: ;, Tipo: Palabra Reservada
+Token: id_4, Lexema: c, Tipo: Identificador
+Token: =, Lexema: =, Tipo: Palabra Reservada
+Token: id_2, Lexema: a, Tipo: Identificador
+Token: +, Lexema: +, Tipo: Palabra Reservada
+Token: id_3, Lexema: b, Tipo: Identificador
+Token: ;, Lexema: ;, Tipo: Palabra Reservada
+Token: imp, Lexema: imprimir, Tipo: Palabra Reservada
+Token: (, Lexema: (, Tipo: Palabra Reservada
+Token: cadena, Lexema: "la suma de ", Tipo: Cadena de Texto
+Token: ,, Lexema: ,, Tipo: Palabra Reservada
+Token: id_2, Lexema: a, Tipo: Identificador
+Token: ,, Lexema: ,, Tipo: Palabra Reservada
+Token: cadena, Lexema: " + ", Tipo: Cadena de Texto
+Token: ,, Lexema: ,, Tipo: Palabra Reservada
+Token: id_3, Lexema: b, Tipo: Identificador
+Token: ,, Lexema: ,, Tipo: Palabra Reservada
+Token: cadena, Lexema: " = ", Tipo: Cadena de Texto
+Token: ,, Lexema: ,, Tipo: Palabra Reservada
+Token: id_4, Lexema: c, Tipo: Identificador
+Token: ), Lexema: ), Tipo: Palabra Reservada
+Token: ;, Lexema: ;, Tipo: Palabra Reservada
+Token: ter, Lexema: terminar, Tipo: Palabra Reservada
+Token: ;, Lexema: ;, Tipo: Palabra Reservada
+Token: }, Lexema: }, Tipo: Palabra Reservada
